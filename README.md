@@ -7,4 +7,4 @@ For more information on how to configure the GitHub Actions provided, check out 
 Notion guide](https://eastern-diagnostic-580.notion.site/Set-up-CI-CD-for-Google-Cloud-Run-with-Github-Actions-de0624a66b244d829517c9bf77c89dcb).
 
 When you're done, check out the `teardown.sh` [script](scripts/teardown.sh) which will
-remove any deployed resources you may have.
+remove any deployed resources you may have..
